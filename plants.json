@@ -1,0 +1,383 @@
+{
+  "Yapraklı Bitkiler": [
+    {
+      "name": "Deve Tabanı (Monstera)",
+      "info": "Deve Tabanı (Monstera deliciosa), geniş ve yarıklı yapraklarıyla tanınan, tropikal kökenli dekoratif bir salon bitkisidir. Anavatanı Orta Amerika’dır. Büyük, parlak yeşil yaprakları bitkiye güçlü ve modern bir görünüm kazandırır. Doğal ortamında sarılıcı bir yapıya sahiptir ve iç mekânlarda hızlı büyümesiyle bilinir. Estetik duruşu sayesinde ev ve ofis dekorasyonunda oldukça popülerdir.",
+      "img": "images/monstera.jpg"
+    },
+    {
+      "name": "Paşa Kılıcı (Sansevieria)",
+      "info": "Paşa Kılıcı (Sansevieria / Dracaena trifasciata), dik ve kılıç şeklindeki sert yapraklarıyla tanınan, son derece dayanıklı bir iç mekân bitkisidir. Anavatanı Afrika’dır. Yaprakları yeşil, sarı veya açık renkli çizgilerle desenlidir. Az bakım istemesi ve güçlü yapısı nedeniyle yeni başlayanlar için ideal bir bitkidir. Minimal ve şık görünümüyle modern dekorasyonlarda sıkça tercih edilir.",
+      "img": "images/pasa_kilici.jpg"
+    },
+    {
+      "name": "Dua Çiçeği (Calathea)",
+      "info": "Dua Çiçeği (Maranta), yapraklarının üzerindeki dikkat çekici desenleri ve akşam saatlerinde yapraklarını kapatmasıyla bilinen tropikal bir bitkidir. Anavatanı Güney Amerika’dır. Yaprakları oval formda olup yeşil, kırmızı ve krem tonlarında desenler taşır. Bu yaprak hareketi nedeniyle “dua çiçeği” adını almıştır. Zarif görünümü ve canlı yaprak desenleriyle iç mekânlarda dekoratif amaçla yetiştirilir.",
+      "img": "images/dua_cicegi.jpg"
+    },
+    {
+      "name":"Caladium (Kaladyum)",
+      "info":"Fil kulağı olarak da bilinen kaladyumlar, bahçede gerçekten eşsiz bir görünüme sahiptir. Yeşil, kırmızı, pembe ve beyazın çarpıcı kombinasyonlarında büyük, ok ucu şeklinde yaprakları vardır. Kaladyumlarınızı kısmi gölgede yetiştirin ; bu şekilde bahçeniz için beklenmedik ve hoş bir mevsim boyu renk patlaması yaratırlar. Daha soğuk iklimlerde, onları yıllık bitki olarak yetiştirin ve kışın içeriye alın. Kaladyumlar insanlar ve evcil hayvanlar için zehirlidir.",
+      "img":"images/caladiums.jpg"
+    },
+    {
+      "name":"Coleus",
+      "info":"Gölge seven koleus bitkileri (Plectranthus scutellarioides), Viktorya döneminde popüler bir bahçe bitkisiydi. Güneş seven bir koleus türü geliştirilene kadar bitki bahçıvanların kalbini gerçekten fethetmemişti. Güneş seven koleuslar, bazen tek bir bitkide bile, gökkuşağı renklerinde karşımıza çıkar. 'Big Enchilada', 'Brilliancy' ve 'Copper Sun' gibi isimlere sahip parlak ve neşeli bitkiler, ne bekleyeceğiniz konusunda ipucu veriyor. Budama, bitkileri daha gür ve dolgun hale getirerek, daha muhteşem renkli yapraklar elde etmenizi sağlar. Koleus evcil hayvanlar için zehirlidir.",
+      "img":"images/Coleus.jpg"
+    },
+    {
+      "name":"Hosta",
+      "info":"Hostalar ( Hosta spp.) yeşil, altın ve mavi tonlarında ve alacalı yapraklı çeşitleriyle bulunur . Kısmi gölgeyi tercih ederler; burada daha parlak beyaz ve altın renkleri, ince ışığı yansıtarak çevrelerindeki bitkileri canlandırır. Gölge bitkileri olarak bilinmelerine rağmen, tam güneş alan yerler için de hosta çeşitleri vardır. Hosta plantaginea gibi sadece birkaç hosta çeşidinin  çekici çiçekleri vardır. Çoğu zaman, çiçek sapları çiçek açmadan önce kesilir, böylece bitki güzel yapraklarını büyütmeye odaklanabilir. Hostalar evcil hayvanlar için zehirlidir.",
+      "img":"images/hosta.jpg"
+    },
+{
+  "name":"Pers Kalkanı",
+  "info":"İran kalkanı (Strobilanthes dyerianus) bitkisinin yaprakları neredeyse yanardönerdir. Bu, sıcak iklimlerde her zaman yeşil kalan bir çalı türüdür. Daha serin iklimlerde ise yıllık bitki veya ev bitkisi olarak yetiştirilir. Eğer bitkinizi kışın ev bitkisi olarak tutuyorsanız, ilkbaharda çelikler alıp bahçeye dikebilirsiniz. İran kalkanı tam güneşe dayanıklıdır, ancak yanardönerliği sayesinde kısmi gölgede neredeyse parıldar.",
+  "img":"images/pers.jpg"
+},
+{
+"name":"Rex Begonya",
+"info":"Rex begonyaları (Begonia rex-cultorum) , kalın yaprakları kıvrımlı, benekli, spiral, dalgalı veya kanatlı olan tropikal bitkilerdir. Genellikle bahçe bitkisi olarak değil, koleksiyon eşyası olarak kabul edilen bu bitkiler, sıcak iklimlerde dış mekanlarda veya ev bitkisi olarak yetiştirilir. Ne yazık ki, tropikal bir iklimde yaşamıyorsanız, Rex begonyalarının bakımı biraz zahmetli olabilir. Toprağı ve büyüme koşullarını daha iyi kontrol edebileceğiniz saksılarda yetiştirmek, toprağa dikmekten genellikle daha kolaydır. Rex begonyası evcil hayvanlar için zehirlidir.",
+"img":"images/rex.jpg"
+},
+{
+  "name":"Amaranthus Tricolor",
+  "info":"Amaranthus bitkilerinin (Amaranthus gangeticus) yaprakları o kadar cesur ki, neden çiçek açtıklarını merak edeceksiniz. Amaranthus tricolor, sarı ve turuncu renklerin güneş patlaması gibidir. Yaygın tricolor'un cesur olduğunu düşünüyorsanız, 'Perfecta' gibi bazı çeşitlerine de göz atmalısınız. Bu yıllık bitkiler, en bulutlu günlerde bile bahçenizi haftalarca aydınlatacaktır. Amaranthus tricolor yıllık bir bitkidir ve tohumdan yetiştirmek kolaydır .",
+  "img":"images/Amaranthus.jpg"
+},
+{
+  "name":"Arkea Palmiyesi",
+  "info":"Areka palmiyesi, zarif görüntüsü ve hava temizleme özelliğiyle salon bitkileri arasında sıkça tercih edilen bir tür.Zarif ve şık görüntüsüyle her türlü dekorasyona uyum sağlar. Özellikle büyük saksılarda kullanıldığında mekanlara tropikal bir hava katar. Genel olarak rahatlatıcı etkisi olduğu bilinir.",
+  "img":"images/cham.jpg"
+},
+{
+"name":"Kauçuk (Ficus Elastica) ve Ficus Lyrata",
+"info":"Ficus Elastica ve Ficus Lyrata, iç mekanlarda sıkça tercih edilen iki popüler kauçuk bitkisi. Her ikisi de büyük, gösterişli yaprakları ve dayanıklı yapılarıyla dikkat çeker.",
+"img":"images/kaucuk.jpg"
+},
+{
+  "name":"Fil Kulağı",
+  "info":"Fil Kulağı olarak da bilinen Alocasia cinsi bitkiler, büyük, kalp şeklinde veya ok gibi sivri uçlu yapraklarıyla dikkat çeken tropikal bitkilerdir. Bu bitkilerin yaprakları o kadar büyük ve kalındır ki, bir fil kulağını andırması nedeniyle bu ismi almışlardır.Hafif derecede zehirlidir. Özellikle evcil hayvanlarınız ve çocuklarınız varsa dikkatli olmanız gerekir. Havadaki toksinleri emerek havayı temizleme özelliğine sahiptirler. Türüne göre değişmekle birlikte yavaş büyürler. ",
+  "img":"images/fil.jpg"
+}
+  ],
+
+
+  "Kaktüs & Sukulent": [
+    {
+      "name":"Echinocactus (Kirpi Kaktüs / Golden Barrel)",
+      "info":"Görünümü sebebiyle en dayanıklı türlerden biri. Güneşi çok sever ve ne kadar ışık alırsa formu o kadar kompakt kalır.",
+      "img":"images/echinocactus-kaktus.jpg"
+
+    },
+    {
+      "name":"Opuntia (Dikenli İncir / Bunny Ear)",
+      "info":"Dikenler yerine yoğun kümeler halinde 2–3 mm uzunluğunda çok sayıda beyaz veya sarı glochidleri vardır. Glochidler dikenli ve en ince insan saçından daha incedirler, en ufak bir dokunuşta çok sayıda ayrılırlar. Çıkarılmazlarsa, ciddi cilt tahrişine neden olurlar, bu nedenle bitkilere dikkatli davranılmalıdır.",
+      "img":"images/opuntia.jpg"
+    },
+    {
+      "name":"Mammillaria (Top Kaktüs)",
+      "info":"Mammillaria, halk arasında top kaktüs olarak bilinen, kaktüs familyasına ait yaygın ve dayanıklı bir bitki türüdür.Mammillaria aydınlık ortamları sever. Doğrudan ve uzun süreli güneş ışığı yaprak ve gövde yanıklarına neden olabileceği için, dolaylı güneş alan bir konum idealdir.Mammillaria, bakımı kolay, dayanıklı ve estetik görünümüyle hem yeni başlayanlar hem de koleksiyoncular için ideal bir kaktüs türüdür",
+      "img":"images/top.jpg"
+    },
+    {
+      "name":"Gymnocalycium (Ay Kaktüsü)",
+      "info":"Gymnocalycium, halk arasında ay kaktüsü olarak bilinen, kaktüs familyasına ait dekoratif ve bakımı kolay bir bitki türüdür.Gymnocalycium aydınlık ortamları sever ancak doğrudan ve yoğun güneş ışığına uzun süre maruz kalmamalıdırGymnocalycium, estetik görünümü, kolay bakımı ve gösterişli çiçekleriyle ev ve ofis ortamlarında yetiştirilmeye son derece uygun bir kaktüs türüdür.",
+      "img":"images/ay.jpg"
+    },
+    {
+      "name":"Astrophytum (Yıldız Kaktüsü)",
+      "info":"Astrophytum, halk arasında yıldız kaktüsü olarak bilinen, kaktüs familyasına ait oldukça dekoratif ve özel bir bitki türüdür. Genellikle dikenleri azdır ya da hiç yoktur ve bu özelliğiyle diğer kaktüs türlerinden kolayca ayırt edilir. Gövde yüzeyinde beyaz benekler bulunur; bu benekler bitkinin güneş ışığını yansıtmasına ve su kaybını azaltmasına yardımcı olur.Astrophytum yavaş büyüyen bir kaktüs türüdür.Astrophytum, zarif görünümü, yıldız formu ve gösterişli çiçekleriyle kaktüs koleksiyonlarının en özel ve dikkat çekici türlerinden biridir.",
+      "img":"images/yıldız.jpg"
+    },
+    {
+      "name":"Cereus (Sütun Kaktüs)",
+      "info":"Cereus, halk arasında sütun kaktüs olarak bilinen, kaktüs familyasına ait uzun ve gösterişli bir bitki türüdür.Cereus, kaktüsler arasında büyüme hızı görece yüksek olan türlerden biridir. Zamanla dallanarak daha hacimli bir yapı kazanabilir. Dayanıklı yapısı sayesinde ev, ofis ve geniş iç mekânlarda sıklıkla tercih edilir. Uygun koşullar sağlandığında Cereus türleri çiçek açabilir. Cereus, güçlü gövde yapısı, uzun formu ve etkileyici görünümüyle kaktüs türleri arasında en dikkat çekici ve mimari duruşa sahip bitkilerden biridir. Özellikle büyük ve dikey bitki arayanlar için ideal bir tercihtir.",
+      "img":"images/sütun.jpg"
+    },
+    {
+      "name":"Rebutia",
+      "info":"Rebutia, kaktüs familyasına ait, küçük yapılı ve çiçekleriyle öne çıkan dekoratif bir kaktüs türüdür.Rebutia’yı özel ve popüler kılan en önemli özelliği, bol ve gösterişli çiçeklenmesidir.Çiçek renkleri kırmızı, turuncu, sarı, pembe ve beyaz tonlarında olabilir. Küçük boyutuna rağmen çiçekleri oldukça dikkat çekicidir.Rebutia; küçük boyutu, düzenli formu ve yoğun çiçeklenmesiyle hem yeni başlayanlar hem de kaktüs koleksiyoncuları için oldukça sevilen ve estetik bir kaktüs türüdür.",
+      "img":"images/rebutia.jpg"
+    },
+    {
+      "name":"Echeveria (Lotus Formlu Sukulent)",
+      "info":"Echeveria, halk arasında lotus formlu sukulent olarak bilinen, Crassulaceae familyasına ait estetik görünümlü bir bitkidir. Anavatanı Meksika ve Orta Amerika’dır. Etli yaprakları rozet şeklinde dizilerek lotus çiçeğini andıran simetrik bir form oluşturur. Yaprak renkleri yeşil, gri, pembe ve mor tonlarında olabilir. Küçük ve zarif çiçekleri genellikle uzun bir sap üzerinde açar. Dekoratif görünümü ve kompakt yapısı sayesinde iç ve dış mekânlarda sıkça tercih edilen bir sukulent türüdür.",
+      "img":"images/lotus.jpg"
+    },
+    {
+      "name":"Haworthia (Zebra Sukulent)",
+      "info":"Haworthia, halk arasında zebra sukulent olarak bilinen, küçük yapılı ve dayanıklı bir sukulent türüdür. Anavatanı Güney Afrika’dır. Etli yaprakları rozet formunda dizilir ve yaprakların üzerinde bulunan beyaz çizgiler zebra desenini andırır. Genellikle yeşil tonlarında olan bu bitki, kompakt yapısı sayesinde masa, raf ve pencere önleri için uygundur. Dekoratif görünümü ve uyumlu yapısıyla sukulent koleksiyonlarında sıkça tercih edilir.",
+      "img":"images/zebra.jpg"
+    },
+    {
+      "name":"Crassula Ovata (Para Ağacı / Jade Plant)",
+      "info":"Crassula ovata, halk arasında para ağacı veya jade plant olarak bilinen, Crassulaceae familyasına ait dayanıklı bir sukulent türüdür. Anavatanı Güney Afrika’dır. Kalın gövdeleri ve parlak, etli oval yapraklarıyla tanınır. Zamanla küçük bir ağaç formu alabilir. Bolluk ve bereket sembolü olarak görülmesi nedeniyle ev ve ofislerde dekoratif amaçla sıkça tercih edilen bir bitkidir.",
+      "img":"images/para.jpg"
+    },
+    {
+      "name":"Aloe Vera",
+      "info":"Aloe vera, sukulent familyasına ait, etli yapraklarıyla tanınan çok yıllık bir bitkidir.Aloe vera yüzyıllardır cilt bakımında ve geleneksel uygulamalarda kullanılan bir bitki olarak bilinir.Aynı zamanda dekoratif görünümü sayesinde ev ve ofis ortamlarında da sıkça yetiştirilir. Uygun koşullarda sarı veya turuncu tonlarda çiçek açabilir. Dayanıklı yapısı ve sade görünümüyle hem işlevsel hem de estetik değeri olan popüler bir sukulent türüdür.",
+      "img":"images/vera.jpg"
+    },
+    {
+      "name":"Sedum (Jelly Bean / Burro’s Tail)",
+      "info":"Sedum, sukulent familyasına ait, etli yapraklı ve dekoratif bir bitki grubudur. Jelly Bean ve Burro’s Tail (Eşek Kuyruğu) bu grubun en bilinen türleri arasındadır.Sedum türleri sarkıcı veya yayılan büyüme şekilleriyle özellikle askılı saksılarda oldukça dekoratif bir görünüm sunar. Zamanla küçük ve yıldız formunda çiçekler açabilir. Estetik yapısı, kompakt büyümesi ve sukulentlere özgü dayanıklılığı sayesinde ev ve balkon dekorasyonunda sıkça tercih edilen bitkilerdendir.",
+      "img":"images/jelly.jpg"
+    },
+    {
+      "name":"Graptopetalum (Ghost Plant)",
+      "info":"Graptopetalum, halk arasında Ghost Plant (Hayalet Sukulent) olarak bilinen, sukulent familyasına ait zarif görünümlü bir bitkidir.Etli yaprakları rozet formunda dizilir ve açık gri, gümüşü ya da soluk mor tonlarıyla mat bir görünüme sahiptir. Bu soluk renkli yapraklar bitkiye “hayalet” adının verilmesine neden olmuştur.Graptopetalum, zamanla uzayan gövdesi ve dökülen yapraklardan kolayca köklenebilme özelliğiyle bilinir. Uygun koşullarda küçük, yıldız formunda beyaz veya açık sarı çiçekler açabilir. Estetik duruşu ve sade görünümü sayesinde sukulent koleksiyonlarında ve dekoratif aranjmanlarda sıkça tercih edilen bir türdür.",
+      "img":"images/ghost.jpg"
+    },
+    {
+      "name":"Kalanchoe",
+      "info":"Kalanchoe, Crassulaceae familyasına ait, sukulent yapılı ve çiçekleriyle öne çıkan dekoratif bir bitki türüdür. Anavatanı Afrika ve Madagaskar’dır. Etli yaprakları oval ya da hafif dişli kenarlara sahiptir. Yaprak rengi genellikle parlak yeşildir, bazı türlerinde kızıl tonlar görülebilir.Kalanchoe’yi özel kılan en önemli özelliği uzun süre kalıcı ve canlı renklere sahip çiçekleridir. Çiçekleri kırmızı, pembe, turuncu, sarı ve beyaz gibi farklı renklerde açar. Kompakt yapısı ve estetik görünümü sayesinde ev ve ofis ortamlarında sıkça tercih edilen, süs amaçlı yetiştirilen popüler bir sukulent türüdür.",
+      "img":"images/kalanchoe.jpg"
+    },
+    {
+      "name":"Senecio Rowleyanus (String of Pearls / İnci Tanesi)",
+      "info":"Senecio rowleyanus, halk arasında String of Pearls ya da İnci Tanesi olarak bilinen, sarkıcı formda yetişen dekoratif bir sukulent türüdür. Anavatanı Güney Afrika’dır. Bitki, ince dallar üzerinde dizilen yuvarlak ve boncuk görünümündeki yapraklarıyla tanınır. Bu yapraklar su depolama özelliğine sahiptir ve bitkiye inci dizisini andıran özgün bir görünüm kazandırır.Senecio rowleyanus özellikle askılı saksılarda ve yüksek raflarda oldukça estetik bir duruş sergiler. Uygun koşullarda küçük, beyaz ve hoş kokulu çiçekler açabilir. Kendine özgü formu ve zarif görünümü sayesinde sukulent koleksiyonlarının en dikkat çekici türlerinden biridir.",
+      "img":"images/inci.jpg"
+    }
+  ],
+    "Çiçekli Bitkiler":
+    [
+{
+  "name":"Kasımpatı",
+  "info":"Modern kasımpatılar yabani akrabalarından daha göz alıcıdır. Çiçekler birçok farklı form ve renkte olabilir. Ayrıca bu cins geliştirilmiş birçok hibrit ve binlerce çeşit barındırır. Geleneksel sarı rengin yanı sıra, beyaz, mor ve kırmızı renkleri de görmek mümkündür.",
+  "img":"images/kasım.jpg"
+},
+{
+  "name":"Nergis",
+  "info":"Nergis, ilk bakışta zarif görüntüsüyle insanı çeken ama kökünde eski çağlardan kalma güçlü bir hikaye taşıyan bir çiçek. Hem baharın gelişini müjdeleyen yapısıyla hem de mitolojideki yeriyle insanların aklında hep özel bir anlam bırakmış. 30-35 cm kadar boylanabilen tek yıllık soğanlı bitkilerdir. Parlak yeşil yaprakları vardır. Çiçekleri az sayıda, şemsiyemsi dizilişlidir. Çiçekleri hoş kokulu, sarı ve beyaz renklidir. Ayrıca çiçekleri kesme çiçek olarak da kullanılabilir.",
+  "img":"images/nergis.jpg"
+},
+{
+  "name":"Sümbül",
+    "info":"Sümbül çiçeği soğanlı bitkiler arasında yer alan hoş bir kokuya sahip çiçek türüdür.lkbahar aylarında çiçeklenmeye başlayan sümbül çiçeğinin mor, lila, pembe, sarı, beyaz gibi renkleri vardır ve yeşil yaprakları arasından bu sümbül çeşitleri büyür.Sümbül çiçeği mitolojik bir anlam taşır. Sümbül anlamı ise yeniden doğuşu ifade eder.",
+    "img":"images/sümbül.jpg"
+},
+{
+  "name":"Mum Çiçeği",
+  "info":"Mum Çiçekleri şemsiye şeklinde, minik minik 10-15 çiçeğin bir araya gelmesiyle oluşur. Rengi beyaz-krem çiçeklerin ortasında damlalar halinde tatlı bir öz oluşmaktadır. Çiçekler kuruyup dökülür ancak sapı kalır ve her yıl aynı saptan tekrar çiçek açar. Gövde uzadıkça da yeni çiçekler açar. Oldukça güzel ama ağır kokusu vardır, kapalı mekanda insana uyku verir.",
+  "img":"images/mum.jpg"
+},
+{
+  "name":"Yasemin Çiçeği ",
+  "info":"Yasemin türlerinin çoğu tırmanıcı yapıdadır. Genellikle iki ya da daha çok sayıda yaprakçıktan oluşan birleşik yaprakları vardır. Ama bazı türlerinde basit yapraklara da rastlanır. Beyaz, sarı, nadiren de olsa pembe renkli borumsu çiçekler açar.Anayurdu İran olan ve Akdeniz kıyılarındaki ülkelerde sıkça rastlanan bu bitki, parlak yaprakları ve hoş kokulu beyaz çiçekleriyle park ve bahçeleri süsler. Yasemin çiçeklerinden parfüm sanayisinde kullanılan değerli bir uçucu bir yağ çıkartılır.",
+  "img":"images/Yasemin.jpg"
+},
+{
+  "name":"Siklamen Çiçeği",
+  "info":"Sıklamen çiçeği, zarif görünümü ve dayanıklılığıyla kış aylarının en özel bitkilerindendir. Serin ortamı seven bu çiçek, doğru bakım yapıldığında her yıl yeniden açar. Hem anlamı hem de görünümüyle bulunduğu ortama huzur ve renk katar.Sıklamen genellikle saksıda yetiştirilir ve ev, balkon veya ofis dekorasyonunda sıkça kullanılır. Doğru bakım yapıldığında Sıklamen çiçeği her yıl yeniden açar. Bu özelliğiyle uzun ömürlü ve sembolik bir bitkidir; genellikle sevgi, sadakat ve iç huzuru temsil eder.",
+  "img":"images/sıklamen.jpg"
+},
+{
+  "name":"Çuha Çiçeği",
+  "info":"Kış mevsiminin kasvetli havasını dağıtan, soğuk günlerde bile doğanın renklerini evlerimize ve bahçelerimize taşıyan çuha çiçeği, baharın en zarif müjdecilerinden biridir. Hem iç mekanlarda saksı bitkisi olarak hem de dış mekan peyzajlarında yer örtücü olarak kullanılan bu dayanıklı bitki, doğru bakım teknikleriyle uzun yıllar yaşamını sürdürebilir.",
+  "img":"images/çuha.jpg"
+},
+{
+  "name":"Menekşe",
+  "info":"Genellikle uzun ömürlü olabilen menekşe türü, bazen dönemlik de yaşayabilir. Yaprakları kalp şeklini andırır ve düzensiz, asimetrik (çarpık) çiçekleri bulunur. Bu çiçekleri menekşe familyasının içindeki türlerin ayırt edici özelliğidir. Çiçeklerinin rengi genellikle, çiçeğin adını verdiği menekşe rengindedir. Fakat mavi, sarı, beyaz, pembe ya da çok renkli açan türleri de bulunur. Çok bol çiçek açar, tüm bahar ve yaz döneminde çiçek açtığı görülebilir.",
+  "img":"images/menekse.jpg"
+},
+{
+  "name":"Yılbaşı Çiçeği (Schlumbergera)",
+  "info":"Schlumbergera, kış aylarının en güzel ve en popüler çiçeklerinden birisidir. Ülkemizde yılbaşı çiçeği olarak da bilinir. Schlumbergera, düzenli bakım yapıldığı taktirde uzun ömürlü bir bitkidir. Yılbaşı’nda tomurcuklar adeta bir sihir gibi yeni yıla renk ve sıcaklık katan güzel çiçekler açar.",
+  "img":"images/noel.jpg"
+},
+{
+  "name":"Orkide",
+  "img":"images/orkide.jpg",
+  "info":"Orkide, Orchidaceae familyasına ait, zarif çiçekleriyle tanınan çok yıllık bir bitkidir.Binlerce farklı türü bulunan orkideler, şekil, renk ve desen bakımından bitki dünyasının en zengin gruplarından biridir.Çiçekleri uzun saplar üzerinde açar ve beyaz, pembe, mor, sarı gibi birçok renkte olabilir. Çiçeklenme süresi oldukça uzundur; uygun koşullarda haftalarca hatta aylarca çiçekli kalabilir.Estetik görünümü, zarif duruşu ve uzun ömürlü çiçekleri sayesinde orkideler ev, ofis ve özel günlerde en çok tercih edilen süs bitkileri arasında yer alır. Aynı zamanda saflık, zarafet ve sevgi gibi anlamlar taşıdığı için hediye olarak da sıkça tercih edilir."
+},
+{
+  "name":"Acemborusu",
+  "info":"Sıcak ve ılıman iklimlerde daima yeşil kalan acem borusu, karasal iklim özelliği gösteren bölgelerde yapraklarını döker. Borazan görüntüsüyle dikkat çeken çiçeği oldukça gösterişlidir. Kızıl, kırmızı ve turuncu tonlarında olan renkleri ile oldukça canlı bir görünüme sahip olan acem borusu çiçeği, 3 ila 6 cm boylarındadır. Bu boylara ulaşan çiçekler, tohum fasülye büyüklüğünde tohum kapsülleri meydana getirir. ",
+  "img":"images/acem.jpg"
+},
+{
+  "name":"Acıbakla",
+  "info":"Canlı renkleriyle göz kamaştırır.Uzun ömürlü bir bitkidir.Bol bol güneş görmek ister.Yaz akşamlarının erin geçtiği yerlerde hiç düşünmeden bahçeye davet edebilirsiniz.Havadan aldığı azotu toprakta ki diğer bitkiler için faydalı hale getirir,gübre görevi görür.Soğuğa dayanklıdır.Nemli,geçirgen ve kumlu topraklarda gelişim gösterir.Asitli ortam onun için idealdir.",
+  "img":"images/acı.jpg"
+},
+{
+  "name":"Afrika zambağı",
+  "info":"Toprak açısından dertsiz bir bitkidir.Geçirgen olmak şartıyla hemen her tür toprakta yetişebilir.Çiçekli olduğu yaz günlerinde bol bol sulanmak ister.Gelişme döneminde yerini değiştirmeye özen gösterin.",
+  "img":"images/afrika.jpg"
+},
+{
+  "name":"Aslanağzı",
+  "info":"Güzel görünüşlü,şeridimsi,yeşil yaprakları vardır.Bodur ve uzun boylu türlerine rastlayabilirsiniz.Yarı gölgede ya da bol güneşli ortamlarda mutlu olur.Ilıman iklim bitkisidir ama hemen hemen her iklime kolayca uyum sağlar.Kış döneminde az su verin.Toprağı devamlı nemli tutun",
+  "img":"images/aslan.jpg"
+},
+{"name":"Bahar Yıldızı",
+"info":"Mevsimlik ve ömürlük olmak üzere birçok çeşidi vardır.Sağlıklı gelişim göstermesini istiyorsanız yarı gölge ortamlarda yetişmesini sağlayın.Gübreli toprağa ihtiyaç duyar.",
+"img":"images/bahar.jpg"
+},
+{
+  "name":"Çiğdem",
+  "info":"Çiçekliklerde,ağaç altında, çim alanlarda ve saksılarda yetiştirebilirsiniz. Yetiştirilmesi kolay bir bitkidir.Kendi halinde bıraktığınzda her yerde çoğalabilir.Sağlıklı gelişim göstermesi için; organik maddelerce zengin torpraklarda ve geçirgen kuru topraklarda mutlu olur.Bakımı oldukça kolaydır.Fazla su sevmez.",
+  "img":"images/çiğdem.jpg"
+}
+    ],
+      "Güneşi Sevenler":[
+{
+"name":"Buz Çiçeği",
+"info":"Buz çiçeği, doğanın zarif bir oyunudur. Dışarıdan narin görünse de, aslında oldukça dirençlidir. Güneşi sever ama susuz kalmaya dayanır, serin havalarda bile solmaz. Tam bir “az ile yetinip çok veren” çiçektir. Yüzeyinde oluşan kristalimsi dokusu sayesinde “buz” adını alan bu güzellik, yalnızca estetiğiyle değil, aynı zamanda taşıdığı anlamlarla da dikkat çeker: sabır, sadelik ve güçlü bir ruh. ",
+"img":"images/buz.jpg"
+},
+{
+  "name":"Gazanya",
+  "info":"Halk arasında genellikle “koyun gözü” veya “hazine çiçeği” olarak adlandırılır.  Yapraklarının şekli ve çiçeklerinin göz alıcı renkleri ile dikkat çeken gazanya çiçeği, parlak ve canlı renkleriyle öne çıkan, uzun ömürlü bir süs bitkisidir. Bahçe tasarımlarında sıkça tercih edilen bitkinin çiçekleri, özellikle papatyaya benzer bir yapıya sahiptir. Genellikle beyaz, kırmızı, sarı, turuncu ve pembe tonlarında açarak yaz aylarında bahçelere ve parklara neşe katan bir renk patlaması oluşturur.  Gazanya çiçeği, yaz boyunca ve ılıman iklimlerde sonbahara kadar çiçekli kalabilme özelliği ile mevsim boyunca sürekli bir görsel şölen sunar. Ayrıca, kuraklığa dayanıklılığı sayesinde düşük bakım gerektiren bir bitki olarak bilinir. Bu da gazanya çiçeğini bahçecilikte tercih edilen bir seçenek hâline getirir. Kendi doğal habitatında, açık alanlarda, güneşli yerlerde yetişmeyi sever. Bu nedenle güneşli bahçelerde mükemmel bir şekilde gelişir.",
+  "img":"images/gazanya.jpg"
+},
+{
+  "name":"Ezan Çiçeği",
+  "info":"Halk arasında “ezan çiçeği” olarak bilinen ve Küpeçiçeğigiller familyasına (Onagraceae) ait olan bitkinin bilimsel adı: Oenothera biennis‘dir.  Küme halinde büyük ve sarıçiçeklere sahip olan iki yıllık otsu bir bitkidir. Çiçekleri, kısa ömürlü olup, yazdan sonbahar ortalarına kadar görülür ve yalnızca ikindi vakti başlayarak ay ışığı altında açar.",
+  "img":"images/ezan.jpg"
+},
+{
+  "name":"Kadife Çiçeği",
+  "info":"Yumuşak dokulu yaprakları, kadifemsi dokusuyla ismini hak eden bu bitki, hem görsel güzelliği hem de zararlıları uzaklaştıran doğal özelliğiyle bitki severlerin gözdesidir. Kadife çiçeği, bakım kolaylığı sayesinde yeni başlayan bitki severlerin bile başarıyla yetiştirebileceği bir türdür. Sadece süs bitkisi olarak değil, aynı zamanda toprağı güçlendiren ve diğer bitkileri koruyan doğal bir bahçe dostudur.",
+  "img":"images/kadife.jpg"
+},
+{
+  "name":"Ağaç Minesi",
+  "info":"Ağaç minesi, bilimsel adıyla Lantana camara, Verbenaceae familyasına ait, çiçekli ve dayanıklı bir süs bitkisidir.Çalı formunda büyür ve uygun koşullarda küçük bir ağaç görünümü kazanabilir. Yaprakları oval, hafif pütürlü ve hoş olmayan keskin bir kokuya sahiptir.Ağaç minesi, salkım halinde açan canlı renkli çiçekleriyle dikkat çeker. Aynı çiçek salkımında sarı, turuncu, pembe, kırmızı ve mor tonları bir arada görülebilir. Bu renk değişimi bitkinin en ayırt edici özelliklerinden biridir. Yaz boyunca uzun süre çiçekli kalması nedeniyle bahçe, balkon ve peyzaj düzenlemelerinde sıkça tercih edilir.",
+  "img":"images/m.jpg"
+},
+{
+  "name":"Ateş Çiçeği",
+  "info":"Ateş çiçeği, bilimsel adıyla Salvia splendens, canlı renkleriyle dikkat çeken tek yıllık süs bitkilerinden biridir. Anavatanı Brezilya’dır. Dik gelişen gövdesi ve salkım halinde açan parlak kırmızı çiçekleriyle adını alevi andıran görünümünden alır. Kırmızı rengin yanı sıra pembe, mor ve beyaz tonlarında çiçek açan çeşitleri de bulunmaktadır. Ateş çiçeği, yaz boyunca uzun süre çiçekli kalması sayesinde park, bahçe ve peyzaj düzenlemelerinde sıkça tercih edilir. Gösterişli görünümüyle çiçek tarhlarında güçlü bir renk etkisi oluşturur. Dekoratif değeri yüksek, canlı ve enerjik görünümüyle dış mekân süs bitkileri arasında önemli bir yere sahiptir.",
+  "img":"images/ates.jpg"
+},
+{
+  "name":"Yıldız Çiçeği",
+  "info":"Yıldız çiçeği, bilimsel adıyla Dahlia olarak bilinen ve papatyagiller familyasının en gösterişli üyelerinden biri olan yumrulu bir bitki türüdür. Anavatanı Meksika ve Orta Amerika olan bu bitki, simetrik bir düzenle sıralanmış katmerli taç yaprakları ve geniş renk yelpazesiyle bahçelerin vazgeçilmezi haline gelmiştir. Yaz ortasından başlayıp sonbaharın ilk donlarına kadar çiçekli kalabilen güçlü yapısı sayesinde peyzaj çalışmalarında ve vazo çiçeği yetiştiriciliğinde sıkça tercih edilir. Toprak altında patatese benzeyen yumrulara sahiptir ve bu yumrular sayesinde çok yıllık bir ömre sahip olup her sezon yeniden filizlenme yeteneği taşır.",
+  "img":"images/dahlia.jpg"
+},
+{
+  "name":"Bodrum Papatyası (Osteospermum Ecklonis)",
+  "info":"İri ve rengarenk çiçekleri vardır. Yaprakları koyu yeşildir ve yer örtücü bir şekilde yayılır. Bahar aylarında açan çiçekleri akşamları kapanır. Çiçeklenmeleri ilkbahardan yaz aylarına kadar devam eder. Çiçekleri krem, mor, mavi, lila, sarı ve pembe renklerde olur. Yapraklarının şekli mızrak gibidir. Altmış santimetre uzunluğa kadar büyüyebilirler.",
+  "img":"images/papatya.jpg"
+},
+{
+  "name":"Sardunya",
+  "info":"Sardunya, dayanıklı yapısı ve uzun süreli çiçeklenmesiyle en sevilen balkon ve bahçe bitkilerinden biridir. Anavatanı Güney Afrika’dır. Yuvarlak ve hafif tüylü yapraklara sahiptir. Çiçekleri kırmızı, pembe, beyaz ve mor gibi canlı renklerde açar. Yaz boyunca çiçekli kalması ve sıcaklığa dayanıklı olması nedeniyle özellikle güneşli alanlarda sıkça tercih edilir.",
+  "img":"images/sardunya.jpg"
+},
+{
+  "name":"Petunya",
+  "info":"Petunya, sarkıcı ya da dik formlu çeşitleri bulunan, gösterişli çiçeklere sahip bir süs bitkisidir. Anavatanı Güney Amerika’dır. Büyük ve huni şeklindeki çiçekleri mor, pembe, beyaz, sarı ve iki renkli tonlarda olabilir. Yoğun çiçeklenmesi sayesinde balkon, pencere önü ve saksı düzenlemelerinde renkli bir görünüm sağlar.",
+  "img":"images/petunya.jpg"
+},
+{
+  "name":"Begonvil",
+  "info":"Begonvil, sarılıcı yapısı ve parlak renkli çiçekleriyle tanınan tropikal bir bitkidir. Anavatanı Güney Amerika’dır. Asıl çiçekleri küçük ve beyazdır; mor, pembe, kırmızı ve turuncu görünen kısımlar renkli yapraklardır. Duvar, pergola ve çitleri süslemek için sıklıkla kullanılır ve sıcak iklimlere çok iyi uyum sağlar.",
+  "img":"images/bengovil.jpg"
+},
+{
+  "name":"Lavanta",
+  "info":"Lavanta, hoş kokusu ve mor tonlardaki çiçekleriyle bilinen aromatik bir bitkidir. Anavatanı Akdeniz bölgesidir. İnce yapraklı, çalı formunda büyür ve yaz aylarında başak şeklinde çiçekler açar. Bahçe ve peyzaj düzenlemelerinde dekoratif olduğu kadar kokusu sayesinde rahatlatıcı bir etki sunar.",
+  "img":"images/lavanta.jpg"
+},
+{
+  "name":"Gül",
+  "info":"Gül, tarih boyunca zarafetin ve sevginin simgesi olmuş, en köklü çiçek türlerinden biridir. Dünya genelinde çok sayıda tür ve çeşidi bulunur. Çalı, sarılıcı veya ağaç formunda yetişebilir. Çiçekleri renk, koku ve form açısından büyük çeşitlilik gösterir. Bahçe ve parkların vazgeçilmez bitkilerinden biridir ve estetik değeri oldukça yüksektir.",
+  "img":"images/gul.jpg"
+},
+{
+  "name":"Avize Çiçeği",
+  "info":"Kılıç gibi sivri yaprakları vardır.Çiçekler bu yaprakalrın aralarından çıkar.Küme halindedirler ve renkleri beyazdır.Yetiştirmek isterseniz bol güneş gören alanlara ve kireçli topralara ihtiyacı vardır.Su verirken dikkatli olun fazla su yapraklarını çürütür.Avize Çiçeği, yaz başında açan çiçekleriyle bahçenizin havasını değiştirir.",
+  "img":"images/avize.jpg"
+},
+{
+  "name":"Bodrum Papatyası",
+  "info":"Bodrum papatyası, anavatanı Güney Afrika olan, güneşi seven ve uzun süre çiçek açan süs bitkisidir. Genellikle mor, lila, pembe ve beyaz tonlarında çiçekler açar. Güneşli havalarda çiçekleri tamamen açılırken, kapalı havalarda kapanma eğilimi gösterebilir. İlkbahardan sonbahara kadar yoğun çiçeklenme sağlar. Bakımı oldukça kolaydır. Tam güneş alan yerleri sever ve iyi drenajlı toprakta daha sağlıklı gelişir. Toprak hafif kurudukça sulanmalıdır; fazla su kök çürümesine neden olabilir. Solan çiçeklerin düzenli olarak temizlenmesi yeni çiçek oluşumunu destekler. Ilıman iklim bitkisidir ve şiddetli dona karşı hassastır.",
+  "img":"images/bodrum p..jpg"
+}
+
+ ],
+ "Gölgede Büyüyenler":[
+
+{
+  "name":"Zemheri Ortancası",
+  "info":"Zemheri ortancasının bütün yıl aynı güzellikte kalabilmesi, bir yer örtücüsü olarak kalitesini arttırır. Kenar süslemelerinde de ideal bir bitki türüdür. Her mevsimde mevsimlik bitkiler ile görüntüsü değiştirilen yerlerde kenar bitkisi olarak daima aynı yerde bırakılabilir, bu da vereceğiniz zahmeti azaltır. Sadece mevsimlik bitkileri değiştirirseniz aşırı sıcak görülen bölgelerde, yazın fazla güneş alan yerler bu bitkiye iyi gelmeyecektir. Hem yüksek sıcak, hemde yakıcı güneş bir araya geldiğinde yapraklarda güzellik kalmaz.",
+  "img":"images/zemheri.jpg"
+},
+{
+  "name":"Küçük Cezayir Menekşesi (Vinca minor)",
+  "info":"Adına şarkılar ve şiirler yazılmış olan Cezayir menekşesi, Apocynaceae familyasından bahçe bitki türlerinin ortak adıdır. Görünümü ve hikayesi ile oldukça ilgi çekici olan bu çiçek, bahçenizi mis kokusu ile sarar. Güzel kadınların gözlerine sıfat olan Cezayir menekşesi, ölümcül güzelliği ile adından sıkça söz ettirmiştir.Cezayir menekşesi, dayanıklı bir çiçektir. Evde, balkonda ve bahçede bolca yetiştirilir. Mor, eflatun ve mavi renkte çiçekleri bulunur. Bu çiçek, yayılıcı özelliği ile bilinir. Cezayir menekşesi, iklim şartları sağlandığında doğada kendiliğinden de yetişebilir.",
+  "img":"images/kucuk.jpg"
+},
+{
+  "name":"Çınar Kartopu (Viburnum opulus)",
+  "info":"İlkbaharda kocaman dikkat çeken beyaz çiçekleri yaklaşık 7,5 santimetre boyutundadır ve bu büyük çiçek aslında daha küçük çiçeklerden oluşan bir kümedir. Sonbaharda kızılcık benzeri acı meyveler verirler. Lakin yenilmesi pek önerilmez. Gölge alanda yetişen bitkilerdendir. Orta derecede nemli ve iyi drenaja sahip ve tam güneş ya da yarı gölge de yetişen btkilerdendir. Tutarlı nem ve zengin humuslu topraklar çınar kartopu için idealdir. Bazen bazı türleri doğada ıslak ya da bataklık tarzı yerlerde yetişme eğilimi gösterir. Çınar kartopu bitkisi, çiçek açtıktan hemen sonra gerektiği gibi budanmalıdırlar.",
+  "img":"images/çınar.jpg"
+},
+{
+  "name":"Ormangülü (Rhododendron türleri)",
+  "info":"Ormangülleri, çok farklı şekillerde ve boyutlarda bulunurlar. Bazı çeşitleri yuvarlak ve topluyken bazı çeşitleri de gevşektirler. İlkbahardan yaz ortasına kadar çarpıcı ve göz alıcı çiçekleriyle dikkat çeken ormangülleri krem-sarı, kayısı-somon, en açık ve yumuşak pembe tonundan koyu kırmızılara, lavanta renginden koyu mor ve mavi rengi gibi güllerden daha fazla renk çeşitliliğine sahiptirler.Gölge alanda yetişen bitkilerdendir. Ortancaların aksine ormangülleri, ağaçların altında yetiştirilebilirler. Bazı çeşitleri sabah doğrudan ışık almaya ihtiyaç duysalar bile çoğunun güney güneşinden korunması gerekmektedir. Ayrıca bu bitkiler için en iyi yer benekli gölgelik alanlardır.",
+  "img":"images/orman.jpg"
+},
+{
+  "name":"Ortanca",
+  "info":"Yaprak ve yapılarından dolayı narin gözüken ortancalar düşünülenin aksine çok fazla özene ihtiyaç duymazlar. İlkbahar ve yaz aylarında çiçek açan bu bitki bir çalı türüdür. Bir yaz kadar kısa bir sürede alanı doldurabilen ortancalar hızla büyürler ve yaklaşık 4,5 metre uzunluğuna erişebilirler. İlkbahardan erken sonbahara kadar olan dönemde çiçekleriyle peyzajın önemli parçası olan bu bitki uzun bir ömre sahiptir.  Gölge alanda yetişen bitkilerdendir. Ortancaların dikilebileceği en iyi yerler güneşli sabahlara ve gölgeli öğleden sonralarına sahip güvenli alanlardır.",
+  "img":"images/ortanca.jpg"
+},
+{
+  "name":"Begonya",
+  "info":"Begonya, Begonyagiller (Begoniaceae) familyasına ait, asimetrik yaprak yapısı ve canlı renklerdeki çiçekleriyle bilinen çok yıllık bir süs bitkisidir.Genellikle dekoratif amaçlı yetiştirilen begonyalar, türüne göre hem yaprak güzelliği (örneğin Rex begonyası) hem de çiçeklerinin zarafeti (örneğin Çiçek begonyası) için tercih edilir. Etli sapları, kalp veya kulak şeklindeki asimetrik yaprakları ve beyazdan kırmızıya, pembeden turuncuya kadar değişen geniş renk skalasıyla iç mekanlarda ve balkonlarda estetik bir görünüm sağlar.Türkiye’de de oldukça yaygın olan begonya, kışın don olaylarından korunduğu sürece iç mekanlarda yıl boyu, yaz aylarında ise doğrudan güneş almayan balkon ve bahçelerde mevsimlik olarak rahatlıkla gelişim gösterir.",
+  "img":"images/begonya.jpg"
+},
+{
+  "name":"Zambak",
+  "info":"Hoş görüntüsüyle dikkat çeken zambak çiçeği, muhteşem güzelliğiyle düğün törenlerinin adeta olmazsa olmazı. Hatta bu sebeple halk arasında gelin çiçeği ismiyle anılıyor. Eşsiz kokusu ile insanı büyüleyen bu çiçek aynı zamanda evleri, balkonları ve bahçeleri süslüyor. Lilyum ismiyle de bilinen zambak çiçeği, zambakgiller familyasına ait. Doğrudan güneş ışığına ihtiyaç duymayan zambak, karanlık evleri bile zarif çiçekleri ile güzelleştiriyor. Çok yıllık bir bitki olan bu çiçeğin kökleri yatay olarak gelişiyor. Uzun, zarif bir gövdeye sahip. Nisan ayında filizlenen bu bitki, mayıs ve temmuz ayları arasında çiçek vermeye başlıyor. Zambağı asıl güzel yapan işte bu sarı, turuncu, kırmızı, beyaz ve pembe renkteki çiçekler. ",
+  "img":"images/zambak.jpg"
+},
+{
+  "name":"Cam Güzeli (Impatiens spp.)",
+  "info":"Birçok bahçıvan, bakımlarının kolay olması ve dayanıklılıkları nedeniyle gölgeli alanlar için en çok tercih ettikleri yıllık bitki olarak impatiens'i görür. Impatiens'in birçok farklı adı vardır; bunlar arasında ,Dokunma bana bitkisi, Çalışkan Lizzie, Sabırlı Lucy ve Sultana bulunur. Çeşitli renkler, yapraklar ve çiçek şekilleri sunacak kadar melezleştirilmiştir. Bu çiçekleri doğrudan güneş ışığından uzak tutun; bunun yerine iyi drenajlı saksı toprağı ve hafif ila orta derecede gölgeli bir alan tercih edin (bazı çeşitler kökleri nemli tutulursa daha fazla güneşe dayanabilir). Bitkilerin gölgeli yerlerde iyi geliştiğini ancak ilk başlarda soğuk sıcaklıklara oldukça duyarlıdırlar.",
+  "img":"images/impatien.jpg"
+},
+{
+  "name":"Dilek Kemiği Çiçeği",
+  "info":"Dilek Kemiği Çiçeği, bilimsel adıyla Torenia fournieri, zarif ve renkli çiçekleriyle tanınan bir süs bitkisidir. Adını, çiçeğin iç kısmında yer alan ve dilek kemiğini andıran özel yapısından alır. Anavatanı Asya’nın tropikal bölgeleridir. Genellikle mevsimlik olarak yetiştirilir ve kompakt, çalımsı bir formda büyür.Dilek kemiği çiçeğinin çiçekleri boru şeklinde olup mor, mavi, pembe ve sarı tonlarının bir arada bulunduğu canlı renklere sahiptir. Uzun süre çiçekli kalmasıyla bilinir ve özellikle yaz aylarında balkon, pencere önü ve bahçe düzenlemelerinde sıkça tercih edilir. Yarı gölge alanlarda daha sağlıklı gelişir ve dekoratif görünümüyle gölgeli alanlara renk katan bitkiler arasında yer alır.",
+  "img":"images/dilek.jpg"
+},
+{
+  "name":"Hellebore",
+  "info":"Hellebore, Türkçede genellikle Çöpleme ya da Noel Gülü olarak bilinen, çok yıllık ve dayanıklı bir süs bitkisidir. Ranunculaceae familyasına aittir ve anavatanı Avrupa ile Batı Asya’dır. En dikkat çekici özelliği, kış sonu ve erken ilkbahar döneminde çiçek açmasıdır; hatta bazı türleri kar altındayken bile çiçeklenebilir.Hellebore’un çiçekleri beyaz, krem, pembe, mor ve yeşilimsi tonlarda olabilir. Çiçekler büyük, çanak formunda ve oldukça gösterişlidir. Yaprakları kalın, parlak ve parçalı yapıdadır; yıl boyunca yeşil kalabilen türleri bulunur. Gölgeye ve yarı gölge alanlara uyumlu olması nedeniyle özellikle ağaç altları ve gölgeli bahçeler için ideal bir bitkidir.Genel olarak Hellebore; soğuğa dayanıklılığı, kış aylarında açan zarif çiçekleri ve uzun ömürlü yapısıyla bahçe bitkileri arasında özel bir yere sahiptir.",
+  "img":"images/hell.jpg"
+},
+{
+  "name":"Mercan Çanları",
+  "info":"Mercan Çanları, bilimsel adıyla Heuchera, çok yıllık ve dekoratif bir süs bitkisidir. Anavatanı Kuzey Amerika’dır. En belirgin özelliği, farklı renk tonlarına sahip gösterişli yapraklarıdır. Yaprak renkleri yeşil, bordo, mor, bakır ve gümüş tonlarında olabilir; bu yönüyle bahçe düzenlemelerinde sıkça tercih edilir. Mercan çanları, ince ve uzun saplar üzerinde açan küçük, çan şeklindeki çiçekleriyle adını alır. Çiçekleri genellikle pembe, beyaz veya krem renktedir. Yarı gölge ve gölge alanlara uyum sağlar. Yaprakları yıl boyunca dekoratif görünümünü koruduğu için, özellikle gölge bahçelerinin vazgeçilmez bitkilerinden biridir.",
+  "img":"images/can.jpg"
+},
+{
+  "name":"Aşk Merdiveni",
+  "info":"Aşk Merdiveni, zarif yapraklarıyla bulunduğu ortama canlılık katan, aynı zamanda hassas yapısıyla dikkatli bir bakım gerektiren popüler iç mekân bitkilerinden. Tropikal kökenli olan bu bitki, nemli ortamları ve dengeli bakım rutinini sever. Dolayısıyla sulama, ışık, toprak seçimi ve budama gibi temel adımların doğru uygulanması, uzun ömürlü ve sağlıklı bir gelişim için kritik öneme sahip.",
+  "img":"images/a.jpg"
+},
+{
+  "name":"Abelia",
+  "info":"Dalları tüylü, yaprakları ılıman bölgelerde hep yeşil kalır, soğuk yerlerde ise kış geldiğinde dökülür. Temmuz ayının ortasından başlayarak dallarının ucunda 15–25 cm uzunluğunda, salkım biçiminde çiçekler açar. Kelebekler bu çiçekleri çok severler. Güneşli ya da yarı gölge yerlerde ve nemli, besin maddelerince zengin topraklarda iyi gelişir. Bahçeye gruplar halinde dikilebilir. Anavatanı Çin'dir.",
+  "img":"images/ab.jpg"
+},
+{
+  "name":"Kala",
+  "info":"Bol sulu ve rutubetli ortamları sever.Yarı gölge alanlara dikilmelidir.Sağlıklı gelişim göstermesi için yaprak çürüğü ve killi bahçe toprağına ihtiyaç duyar.",
+  "img":"images/kala.jpg"
+},
+{
+  "name":"Açelya",
+  "info":"Çok bakım istemeyen bir bitkidir.Direkt gün ışığından hoşlanmaz.Yarı gölge alanlar onun için idealdir.Toprağı kurudukça sulamaya dikkat edin.Torflu toprak kullanmaya dikkat edin ve kireçli su vermeyin. Aksi takdirde bitkini yaprakları iki sene içinde sararır.Bitkiyi çiçeklenme dönemi geçtikten sonra budayabilirsiniz.",
+  "img":"images/açelya.jpg"
+}
+
+ ]
+}
